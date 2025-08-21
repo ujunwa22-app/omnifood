@@ -353,4 +353,10 @@
     margin-right: 0;
     margin-bottom: 4.8rem;
   }
+
+  .diets {
+    justify-self: start;
+    padding-left: 2rem;
+    width: 100%;
+  }
 }
